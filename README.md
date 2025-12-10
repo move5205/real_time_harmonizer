@@ -3,7 +3,7 @@
 
 This project presents an 8-voice Formant Harmonizer implemented in the ChucK programming language. It performs real-time pitch tracking on microphone input and generates complex harmonies controlled via MIDI.  
   
-***Real-time Pitch Tracking***: Uses FFT (Fast Fourier Transform) and Parabolic Interpolation to accurately track the fundamental frequency ($F_0$) of the input voice.  
+***Real-time Pitch Tracking***: Uses FFT (Fast Fourier Transform) and Parabolic Interpolation to accurately track the fundamental frequency (F_0) of the input voice.  
 ***8-Voice Polyphony***: Simultaneously generates up to eight voices for complex harmony (Root, 3rd, 4th, 5th, Octave, and their inversions)  
 ***Harmony Modes for Musical Control***:  
 1. Chromatic Mode: Fixed semitone intervals (Parallel Harmony)
